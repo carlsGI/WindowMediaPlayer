@@ -1,0 +1,2 @@
+C:\Users\Carls\Desktop\workzone\WindowMediaPlayer\WindowMediaPlayer\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Carls\Desktop\workzone\WindowMediaPlayer\WindowMediaPlayer\MediaEngine\bin\Debug\ConsoleApplication1.exe.config
